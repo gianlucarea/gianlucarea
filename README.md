@@ -6,7 +6,7 @@ I'm an Italian/Canadian developer based in L'Aquila, Italy.
 - 💻 I'm interested in everything that regards Software.
 - 📚 I also like reading, indulging in history and watching football! 
 
-### How to reach me: [WIP]
+### How to reach me:
 - <a href="https://gianlucarea.github.io"> portfolio </a>
 - <a href="https://www.linkedin.com/in/gianlucarea"> LinkedIn</a>
 

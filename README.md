@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gianlucarea&theme=dracula&size_weight=0&count_weight=1&hide=blade,SCSS,html)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gianlucarea&theme=dracula&size_weight=0&count_weight=1&hide=blade,SCSS,HTML,CSS)](https://github.com/anuraghazra/github-readme-stats)

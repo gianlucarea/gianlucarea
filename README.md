@@ -1,8 +1,8 @@
 ### Hi there! My name is Gianluca 👋
 I'm an Italian/Canadian developer based in L'Aquila, Italy. 
 
-- 🔭 I’m currently working on a project between the University of L'Aquila and the Italian Railway System
-- 🧙‍♂️ I'm learning elixir.
+- 🔭 I’m currently working at OverIT
+- 🧙‍♂️ I'm currently learning elixir.
 - 🎓 I hold a Masters degree in Advanced Software Engineering
 - 💻 I'm interested in everything that regards Software.
 - 📚 I also like reading, indulging in history and watching football! 

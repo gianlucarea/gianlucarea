@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Top Langs](https://github-readme-stats-gianluca-reas-projects.vercel.app/api/top-langs/?username=gianlucarea&theme=dracula&size_weight=0&count_weight=1&hide=blade,SCSS,HTML,CSS,Jupyter+Notebook)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-gianluca-reas-projects.vercel.app/api/top-langs/?username=gianlucarea&theme=dracula&size_weight=0&count_weight=0.5&hide=blade,SCSS,HTML,CSS,Jupyter+Notebook)](https://github.com/anuraghazra/github-readme-stats)

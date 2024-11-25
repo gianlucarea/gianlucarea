@@ -2,7 +2,7 @@
 I'm an Italian/Canadian developer based in L'Aquila, Italy. 
 
 - 🔭 I’m currently working at OverIT
-- 🧙‍♂️ I'm currently learning elixir.
+- 🧙‍♂️ I'm currently learning Phoenix 🐦‍🔥.
 - 🎓 I hold a Masters degree in Advanced Software Engineering
 - 💻 I'm interested in everything that regards Software.
 - 📚 I also like reading, indulging in history and watching football! 
@@ -24,5 +24,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-[![Top Langs](https://github-readme-stats-gianluca-reas-projects.vercel.app/api/top-langs/?username=gianlucarea&theme=dracula&size_weight=0&count_weight=0.5&hide=blade,SCSS,HTML,CSS,Jupyter+Notebook)](https://github.com/anuraghazra/github-readme-stats)

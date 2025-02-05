@@ -11,9 +11,6 @@ I'm an Italian/Canadian developer based in L'Aquila, Italy.
 - <a href="https://gianlucarea.github.io"> Portfolio </a>
 - <a href="https://www.linkedin.com/in/gianlucarea"> LinkedIn</a>
 
-
-[![Top Langs](https://github-readme-stats-gianluca-reas-projects.vercel.app/api/top-langs/?username=gianlucarea&theme=dracula&size_weight=0&count_weight=0.5&hide=blade,SCSS,HTML,CSS,Jupyter%20Notebook)](https://github.com/anuraghazra/github-readme-stats)
-
 <!--
 **gianlucarea/gianlucarea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

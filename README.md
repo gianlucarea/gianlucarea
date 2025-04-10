@@ -2,7 +2,6 @@
 I'm an Italian/Canadian developer based in L'Aquila, Italy. 
 
 - 🔭 I’m currently working at OverIT
-- 🧙‍♂️ I'm currently learning Rust 🦀.
 - 🎓 I hold a Masters degree in Advanced Software Engineering
 - 💻 I'm interested in everything that regards Software.
 - 📚 I also like reading, indulging in history and watching football! 

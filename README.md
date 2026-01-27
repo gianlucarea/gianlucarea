@@ -16,3 +16,7 @@ I'm a **Software Engineer** with experience building and maintaining production-
 * 💼 **LinkedIn**: [linkedin.com/in/gianlucarea](https://linkedin.com/in/gianlucarea) 
 * 🐙 **GitHub**: [github.com/gianlucarea](https://github.com/gianlucarea) 
 * 📧 **Email**: [gianlucarea.work@gmail.com](mailto:gianlucarea.work@gmail.com) 
+
+---
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=aldino1997&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false&mode=dark)](https://spotify-github-profile.kittinanx.com/api/view?uid=aldino1997&redirect=true)

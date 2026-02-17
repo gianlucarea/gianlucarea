@@ -1,16 +1,21 @@
-## Hi there 👋
+### Hi there! My name is Gianluca 👋
 
-<!--
-**gianlucarea/gianlucarea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Software Engineer** with experience building and maintaining production-grade backend systems in enterprise and research environments. 
+I focus on clean architecture, system reliability, and delivering scalable solutions. 
 
-Here are some ideas to get you started:
+* 🔭 **Currently working at**: **OverIT** as an Associate Software Engineer, shipping production features for enterprise customers in the energy and communications domains. 
+* 🎓 **Education**: I hold an **MS in Advanced Software Engineering** (Dec 2023) and a **BS in Computer Science** from the University of L'Aquila. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills
+* 💻 **Core Technologies**: Java, Spring Boot, Python, PostgreSQL, OracleDB, Redis, and Git. 
+* 🌱 **Professional Proficiency**: Go, Django, React, RabbitMQ, Docker, AWS, GitHub Actions, and Grafana. 
+* 🚀 **Currently Exploring**: Rust, Elixir, and Kubernetes. 
+
+### 📚 Beyond Code
+When I'm not coding, I enjoy reading, exploring history, and watching football.
+--- 
+### How to reach me: 
+* 🌐 **Portfolio**: [gianlucarea.dev](https://gianlucarea.dev) 
+* 💼 **LinkedIn**: [linkedin.com/in/gianlucarea](https://linkedin.com/in/gianlucarea) 
+* 📧 **Email**: [gianlucarea.work@gmail.com](mailto:gianlucarea.work@gmail.com) 
+---

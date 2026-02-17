@@ -13,6 +13,7 @@ I focus on clean architecture, system reliability, and delivering scalable solut
 
 ### 📚 Beyond Code
 When I'm not coding, I enjoy reading, exploring history, and watching football.
+
 --- 
 ### How to reach me: 
 * 🌐 **Portfolio**: [gianlucarea.dev](https://gianlucarea.dev) 

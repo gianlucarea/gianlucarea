@@ -6,7 +6,7 @@ I focus on clean architecture, system reliability, and delivering scalable solut
 * 🔭 **Currently working at**: **OverIT** as an Associate Software Engineer, shipping production features for enterprise customers in the energy and communications domains. 
 * 🎓 **Education**: I hold an **MS in Advanced Software Engineering** (Dec 2023) and a **BS in Computer Science** from the University of L'Aquila. 
 
-### Skills
+### 🧙‍♂️ Skills
 * 💻 **Core Technologies**: Java, Spring Boot, Python, PostgreSQL, OracleDB, Redis, and Git. 
 * 🌱 **Professional Proficiency**: Go, Django, React, RabbitMQ, Docker, AWS, GitHub Actions, and Grafana. 
 * 🚀 **Currently Exploring**: Rust, Elixir, and Kubernetes. 

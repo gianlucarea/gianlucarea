@@ -1,22 +1,14 @@
-### Hi there! My name is Gianluca 👋
+### Gianluca Rea
 
-I'm a **Software Engineer** with experience building and maintaining production-grade backend systems in enterprise and research environments. 
-I focus on clean architecture, system reliability, and delivering scalable solutions. 
+Backend engineer. I build distributed systems that stay correct under load.
+Java and Go, mostly. Currently at [OverIT](https://overit.com) — high-availability APIs for enterprise FSM, thousands of concurrent users. Before that, a [simulation engine](https://github.com/gianlucarea) at the University of L'Aquila: 2,000+ nodes, real-time state propagation, 30% throughput improvement.
+I care about consistency, latency, and APIs that don't surprise you.
 
-* 🔭 **Currently working at**: **OverIT** as an Associate Software Engineer, shipping production features for enterprise customers in the energy and communications domains. 
-* 🎓 **Education**: I hold an **MS in Advanced Software Engineering** (Dec 2023) and a **BS in Computer Science** from the University of L'Aquila. 
-
-### 🧙‍♂️ Skills
-* 💻 **Core Technologies**: Java, Spring Boot, Python, PostgreSQL, OracleDB, Redis, and Git. 
-* 🌱 **Professional Proficiency**: Go, Django, React, RabbitMQ, Docker, AWS, GitHub Actions, and Grafana. 
-* 🚀 **Currently Exploring**: Rust, Elixir, and Kubernetes. 
-
-### 📚 Beyond Code
-When I'm not coding, I enjoy reading, exploring history, and watching football.
-
---- 
-### How to reach me: 
-* 🌐 **Portfolio**: [gianlucarea.dev](https://gianlucarea.dev) 
-* 💼 **LinkedIn**: [linkedin.com/in/gianlucarea](https://linkedin.com/in/gianlucarea) 
-* 📧 **Email**: [gianlucarea.work@gmail.com](mailto:gianlucarea.work@gmail.com) 
 ---
+
+**[parley](https://github.com/gianlucarea/parley)** — HTTP client for the terminal. Collections as TOML, git-native by design.  
+**[m68k-interpreter](https://github.com/gianlucarea/m68k-interpreter)** — Motorola 68000 ISA in TypeScript. Registers, memory, opcode decoding, debugger.
+
+---
+
+[gianlucarea.dev](https://gianlucarea.dev) · [linkedin](https://linkedin.com/in/gianlucarea) · [gianlucarea.work@gmail.com](mailto:gianlucarea.work@gmail.com)

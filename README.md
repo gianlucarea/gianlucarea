@@ -5,7 +5,7 @@ Java and Go, mostly.
 
 Currently at [OverIT](https://overit.com) — high-availability APIs for enterprise FSM, thousands of concurrent users.
 
-Before that, a [simulation engine](https://github.com/gianlucarea) at the University of L'Aquila: 2,000+ nodes, real-time state propagation, 30% throughput improvement.  
+Before that, a simulation engine at the University of L'Aquila: 2,000+ nodes, real-time state propagation, 30% throughput improvement.  
 
 I care about consistency, latency, and APIs that don't surprise you.
 

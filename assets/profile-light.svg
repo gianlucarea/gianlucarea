@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+  <title id="title">Gianluca Rea — Software Engineer</title>
+  <desc id="desc">Backends. Systems. Developer tools. A teal network of connected nodes accompanies Gianluca Rea's name on a light background.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#f8fcf9"/>
+      <stop offset="1" stop-color="#edf5f0"/>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop stop-color="#38b88d" stop-opacity=".13"/>
+      <stop offset="1" stop-color="#38b88d" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M28 0H0V28" fill="none" stroke="#207b5c" stroke-opacity=".07"/>
+    </pattern>
+    <clipPath id="frame"><rect x="1" y="1" width="1198" height="338" rx="20"/></clipPath>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="340" fill="url(#background)"/>
+    <rect x="740" width="460" height="340" fill="url(#grid)"/>
+    <ellipse cx="1000" cy="172" rx="275" ry="230" fill="url(#glow)"/>
+    <path d="M760 36V304" stroke="#c4d9cc" stroke-width="1"/>
+    <path d="M760 36V68M760 272V304" stroke="#218160" stroke-opacity=".6" stroke-width="2"/>
+
+    <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+      <circle cx="57" cy="63" r="5" fill="#16754f"/>
+      <text x="73" y="69" fill="#486e5d" font-size="17" font-weight="600" letter-spacing="2.2">SOFTWARE ENGINEER</text>
+      <text x="50" y="169" fill="#18372a" font-size="76" font-weight="750" letter-spacing="-3.2">Gianluca Rea<tspan fill="#16754f">.</tspan></text>
+      <text x="54" y="218" fill="#456553" font-size="25" font-weight="400" letter-spacing="-.3">Backends. Systems. Developer tools.</text>
+      <path d="M54 270H86" stroke="#a57529" stroke-width="2"/>
+      <text x="99" y="276" fill="#486e5d" font-size="17" letter-spacing=".8">gianlucarea.dev</text>
+    </g>
+
+    <g fill="none" stroke="#80ac95" stroke-width="1.5">
+      <circle cx="987" cy="170" r="105" stroke-dasharray="3 9" stroke-opacity=".7"/>
+      <path d="M840 97H892Q911 97 911 116V151Q911 170 930 170H958"/>
+      <path d="M1020 170H1060Q1079 170 1079 151V97H1124"/>
+      <path d="M987 201V238Q987 257 1006 257H1092"/>
+      <path d="M958 170H881Q862 170 862 189V257H831"/>
+      <path d="M987 139V74"/>
+    </g>
+    <g fill="#e2f0e7" stroke="#479b72" stroke-width="1.5">
+      <rect x="820" y="77" width="40" height="40" rx="10"/>
+      <rect x="1104" y="77" width="40" height="40" rx="10"/>
+      <rect x="811" y="237" width="40" height="40" rx="10"/>
+      <rect x="1072" y="237" width="40" height="40" rx="10"/>
+      <circle cx="987" cy="65" r="9"/>
+    </g>
+    <g fill="#218160">
+      <circle cx="840" cy="97" r="4"/>
+      <circle cx="1124" cy="97" r="4"/>
+      <circle cx="831" cy="257" r="4"/>
+      <circle cx="1092" cy="257" r="4"/>
+      <circle cx="911" cy="137" r="3"/>
+      <circle cx="1056" cy="170" r="3"/>
+    </g>
+    <rect x="952" y="135" width="70" height="70" rx="18" fill="#d7ebdf" stroke="#218160" stroke-width="2"/>
+    <path d="M974 160L964 170L974 180M1000 160L1010 170L1000 180M992 155L982 185" fill="none" stroke="#174d34" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5"/>
+    <circle cx="987" cy="65" r="3" fill="#aa782d"/>
+    <circle cx="1037" cy="257" r="3" fill="#aa782d"/>
+  </g>
+  <rect x=".75" y=".75" width="1198.5" height="338.5" rx="20" fill="none" stroke="#c3d8cb" stroke-width="1.5"/>
+</svg>
